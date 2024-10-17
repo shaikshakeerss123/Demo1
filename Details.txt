@@ -5,4 +5,4 @@ git commit -m "Any text"
 git push origin master(I changed my repository from main to master when creating new repository because of default is mostly master branch for all places)
 
 if you want to add direct from github first full pull then add and push your side
-git pull "repository url " 
+git pull "repository url" 
