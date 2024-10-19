@@ -65,4 +65,7 @@ Some of the important points are
 	-> After working you want to store your git then same first to end process
 	-> In company seperate branches there then push personal to main
 	
-	
+	--   Round-5 ------	
+
+** Direct adding upate code ar files into github using eclipse 
+	-> Right click on folder Teams option showing click 
