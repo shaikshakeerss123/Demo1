@@ -68,4 +68,13 @@ Some of the important points are
 	--   Round-5 ------	
 
 ** Direct adding upate code ar files into github using eclipse 
-	-> Right click on folder Teams option showing click 
+	-> Right click on folder Teams option showing hover it then click commit 
+	-> When commit option is not showing it shows apply path and share means your github remote repository link 
+	is breaking with local git repository then you click share it shows Configure Git Repository heading its 
+	automatically take the git location you just click finish button its connected,
+	-> Again open teams its showing all commit and push both, but first commit then select one file and click + btn
+	 click single file stagged, then all files click ++ btn in unstaging to stagging changed
+	 -> Gave a meaning full message in message section then click commit option
+	 -> Again open teams then click push Branch Master option all default there just click push
+	 -> 
+	
